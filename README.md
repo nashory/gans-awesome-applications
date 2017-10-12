@@ -12,10 +12,11 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 ## Applications using GANs
 
 ### Font generation
-+ Learning Chinese Character style with conditional GAN, [[paper]](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html), [[github]](https://github.com/kaonashi-tyc/zi2zi)
++ Learning Chinese Character style with conditional GAN, [[blog]](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html), [[github]](https://github.com/kaonashi-tyc/zi2zi)
 
 ### Anime character generation
 + Towards the Automatic Anime Characters Creation with Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1708.05509)
++ A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing, [[github]](https://github.com/jayleicn/animeGAN)
 
 ### Interactive Image generation
 + Generative Visual Manipulation on the Natural Image Manifold, [[paper]](https://arxiv.org/pdf/1609.03552), [[github]](https://github.com/junyanz/iGAN)
@@ -33,7 +34,7 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling.pdf), [[github]](https://github.com/zck119/3dgan-release), [[Youtube]](https://www.youtube.com/watch?v=HO1LYJb818Q)
 
 ### Image Editing
-+ https://arxiv.org/abs/1611.06355 [[paper]](https://arxiv.org/abs/1611.06355), [[github]](https://github.com/Guim3/IcGAN)
++ Invertible Conditional GANs for image editing [[paper]](https://arxiv.org/abs/1611.06355), [[github]](https://github.com/Guim3/IcGAN)
 
 
 ### Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)
