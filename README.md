@@ -85,5 +85,13 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 + [starter from "How to Train a GAN?" at NIPS2016](https://github.com/soumith/ganhacks)
 + [[paper]](), [[github]](), [[Youtube]]()
 
+----
+
+## Implementations of varisous types of GANs collection
++ [nashory/gans-collections.torch](https://github.com/nashory/gans-collection.torch), Torch7
++ [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
++ [wiseodd/generative-models](https://github.com/wiseodd/generative-models)
+
+
 ## Author
 Minchul Shin, [@nashory](https://github.com/nashory)
