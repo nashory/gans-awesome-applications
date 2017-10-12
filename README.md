@@ -24,7 +24,8 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 ### Text2Image (text to image)
 + [TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/pdf/1703.06412.pdf), [[github]](https://github.com/dashayushman/TAC-GAN)
 + [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1612.03242.pdf), [[github]](https://github.com/hanzhanggit/StackGAN)
-+ [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), [[github]](https://github.com/paarthneekhara/text-to-image)
++ [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), [[github]](https://github.com/paarthneekhara/text-to-image), [[github]](https://github.com/reedscot/icml2016)
++ [Learning What and Where to Draw](http://www.scottreed.info/files/nips2016.pdf), [[github]](https://github.com/reedscot/nips2016)
 
 ### 3D Obejct generation
 + Parametric 3D Exploration with Stacked Adversarial Networks, [[github]](https://github.com/maxorange/pix2vox), [[Youtube]](https://www.youtube.com/watch?v=ITATOXVvWEM)
@@ -39,9 +40,20 @@ Shapes via 3D Generative-Adversarial Modeling](http://papers.nips.cc/paper/6096-
 + [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/pdf/1703.05192.pdf), [[github]](https://github.com/carpedm20/DiscoGAN-pytorch)
 + [Unsupervised Creation of Parameterized Avatars](https://arxiv.org/pdf/1704.05693.pdf)
 + [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION](https://openreview.net/pdf?id=Sk2Im59ex)
++ [Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](http://arxiv.org/abs/1604.04382), [[github]](https://github.com/chuanli11/MGANs)
 
 ### Image Inpainting (hole filling)
 + [Context Encoders: Feature Learning by Inpainting](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf), [[github]](https://github.com/pathak22/context-encoder)
++ [Semantic Image Inpainting with Perceptual and Contextual Losses](https://arxiv.org/abs/1607.07539), [[github]](https://github.com/bamos/dcgan-completion.tensorflow)
++ [SEMI-SUPERVISED LEARNING WITH CONTEXT-CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1611.06430v1.pdf)
++ [Generative Face Completion](https://drive.google.com/file/d/0B8_MZ8a8aoSeenVrYkpCdnFRVms/edit), [[github]](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
+
+### Super-resolution
++ Image super-resolution through deep learning, [[github]](https://github.com/david-gpu/srez)
++ [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802), [[github]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
+
+### Image Blending
++ [GP-GAN: Towards Realistic High-Resolution Image Blending](https://arxiv.org/abs/1703.07195), [[github]](https://github.com/wuhuikai/GP-GAN)
 
 -----
 
