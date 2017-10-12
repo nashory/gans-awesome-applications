@@ -87,10 +87,10 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 
 ----
 
-## Implementations of varisous types of GANs collection
-+ [nashory/gans-collections.torch](https://github.com/nashory/gans-collection.torch), Torch7
-+ [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
-+ [wiseodd/generative-models](https://github.com/wiseodd/generative-models)
+## Implementations of various types of GANs collection
++ [nashory/gans-collections.torch](https://github.com/nashory/gans-collection.torch), torch7
++ [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections), pytorch
++ [wiseodd/generative-models](https://github.com/wiseodd/generative-models), both pytorch and tensorflow
 
 
 ## Author
