@@ -35,7 +35,11 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 
 ### Image Editing
 + Invertible Conditional GANs for image editing [[paper]](https://arxiv.org/abs/1611.06355), [[github]](https://github.com/Guim3/IcGAN)
++ Age Progression/Regression by Conditional Adversarial Autoencoder, [[paper]](https://arxiv.org/pdf/1702.08423), [[github]](https://github.com/ZZUTK/Face-Aging-CAAE)
++ CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms, [[paper]](https://arxiv.org/pdf/1706.07068.pdf)
 
+### Human Pose Estimation
++ Pose Guided Person Image Generation, [[paper]](https://arxiv.org/abs/1705.09368)
 
 ### Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)
 + Image-to-Image Translation with Conditional Adversarial Networks, [[paper]](https://arxiv.org/pdf/1611.07004), [[github]](https://github.com/phillipi/pix2pix), [[Youtube]](https://www.youtube.com/watch?v=VVqxbmUJorQ)
@@ -78,6 +82,8 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 + The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies, [[paper]](http://delivery.acm.org/10.1145/2930000/2925954/a119-sangkloy.pdf?ip=111.91.137.238&id=2925954&acc=CHORUS&key=58C7DD92F91E3631%2E58C7DD92F91E3631%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=818332500&CFTOKEN=94661101&__acm__=1507787415_cb950c300370fc27da68920a0d5b5178), [[Youtube]](https://www.youtube.com/watch?v=a3sgFQjEfp4)
 + PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing, [[paper]](https://www.researchgate.net/profile/Eli_Shechtman/publication/220184392_PatchMatch_A_Randomized_Correspondence_Algorithm_for_Structural_Image_Editing/links/02e7e520897b12bf0f000000.pdf), [[github]](https://github.com/younesse-cv/PatchMatch), [[Youtube]](https://www.youtube.com/watch?v=n3aoc36V8LM)
 
+### Human Pose Estimation
++ Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation, [[paper]](https://arxiv.org/pdf/1705.02407.pdf), [[github]](https://github.com/Guanghan/GNet-pose)
 
 -----
 
