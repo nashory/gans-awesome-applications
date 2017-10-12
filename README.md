@@ -40,7 +40,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 ### Face Aging
 + Age Progression/Regression by Conditional Adversarial Autoencoder, [[paper]](https://arxiv.org/pdf/1702.08423), [[github]](https://github.com/ZZUTK/Face-Aging-CAAE)
 + CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms, [[paper]](https://arxiv.org/pdf/1706.07068.pdf)
-+ [FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1702.01983.pdf), [[github]]()
++ FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS, [[paper]](https://arxiv.org/pdf/1702.01983.pdf)
 
 ### Human Pose Estimation
 + Pose Guided Person Image Generation, [[paper]](https://arxiv.org/abs/1705.09368)
