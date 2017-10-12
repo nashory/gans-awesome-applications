@@ -32,15 +32,19 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 + Learning a Probabilistic Latent Space of Object
 Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling.pdf), [[github]](https://github.com/zck119/3dgan-release), [[Youtube]](https://www.youtube.com/watch?v=HO1LYJb818Q)
 
-### Photorealistic Image geneation (e.g. pix2pix, sketch2image)
-+ Image-to-Image Translation with Conditional Adversarial Networks, [[paper]](https://arxiv.org/pdf/1611.07004), [[github]](https://github.com/phillipi/pix2pix), [[Youtube]](https://www.youtube.com/watch?v=VVqxbmUJorQ)
+### Image Editing
++ https://arxiv.org/abs/1611.06355 [[paper]](https://arxiv.org/abs/1611.06355), [[github]](https://github.com/Guim3/IcGAN)
 
-### Domain-transfer (e.g. style-transfer)
+
+### Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)
++ Image-to-Image Translation with Conditional Adversarial Networks, [[paper]](https://arxiv.org/pdf/1611.07004), [[github]](https://github.com/phillipi/pix2pix), [[Youtube]](https://www.youtube.com/watch?v=VVqxbmUJorQ)
 + Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, [[paper]](https://arxiv.org/pdf/1703.10593.pdf), [[github]](https://github.com/junyanz/CycleGAN), [[Youtube]](https://www.youtube.com/watch?v=JzgOfISLNjk)
 + Learning to Discover Cross-Domain Relations with Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1703.05192.pdf), [[github]](https://github.com/carpedm20/DiscoGAN-pytorch)
 + Unsupervised Creation of Parameterized Avatars, [[paper]](https://arxiv.org/pdf/1704.05693.pdf)
 + UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION, [[paper]](https://openreview.net/pdf?id=Sk2Im59ex)
 + Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks, [[paper]](http://arxiv.org/abs/1604.04382), [[github]](https://github.com/chuanli11/MGANs)
++ Pixel-Level Domain Transfer  [[paper]](https://arxiv.org/pdf/1603.07442), [[github]](https://github.com/fxia22/PixelDTGAN)
+
 
 ### Image Inpainting (hole filling)
 + Context Encoders: Feature Learning by Inpainting, [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf), [[github]](https://github.com/pathak22/context-encoder)
@@ -54,6 +58,9 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 
 ### Image Blending
 + GP-GAN: Towards Realistic High-Resolution Image Blending, [[paper]](https://arxiv.org/abs/1703.07195), [[github]](https://github.com/wuhuikai/GP-GAN)
+
+### Visual Saliency Prediction (attention prediction)
++ SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1701.01081), [[github]](https://github.com/imatge-upc/saliency-salgan-2017)
 
 -----
 
@@ -76,7 +83,7 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 ## GANs tutorials with easy and simple example codes for starters.
 + [1D Generative Adversarial Network Demo](http://notebooks.aylien.com/research/gan/gan_simple.html)
 + [starter from "How to Train a GAN?" at NIPS2016](https://github.com/soumith/ganhacks)
-+ [](), [[github]](), [[Youtube]]()
++ [[paper]](), [[github]](), [[Youtube]]()
 
 ## Author
 Minchul Shin, [@nashory](https://github.com/nashory)
