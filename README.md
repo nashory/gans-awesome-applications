@@ -1,6 +1,7 @@
 # gans-awesome-applications
 Curated list of awesome GAN applications and demonstrations.  
-__Note: General GAN papers targeting simple image generation such as DCGAN, BEGAN etc. are not included in the list.__
+
+__Note: General GAN papers targeting simple image generation such as DCGAN, BEGAN etc. are not included in the list. I mainly care about applications.__
 
 ## The landmark papers that I respect.
 + Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1406.2661), [[github]](https://github.com/goodfeli/adversarial)
@@ -35,8 +36,11 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 
 ### Image Editing
 + Invertible Conditional GANs for image editing [[paper]](https://arxiv.org/abs/1611.06355), [[github]](https://github.com/Guim3/IcGAN)
+
+### Face Aging
 + Age Progression/Regression by Conditional Adversarial Autoencoder, [[paper]](https://arxiv.org/pdf/1702.08423), [[github]](https://github.com/ZZUTK/Face-Aging-CAAE)
 + CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms, [[paper]](https://arxiv.org/pdf/1706.07068.pdf)
++ [FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1702.01983.pdf), [[github]]()
 
 ### Human Pose Estimation
 + Pose Guided Person Image Generation, [[paper]](https://arxiv.org/abs/1705.09368)
@@ -49,6 +53,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 + UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION, [[paper]](https://openreview.net/pdf?id=Sk2Im59ex)
 + Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks, [[paper]](http://arxiv.org/abs/1604.04382), [[github]](https://github.com/chuanli11/MGANs)
 + Pixel-Level Domain Transfer  [[paper]](https://arxiv.org/pdf/1603.07442), [[github]](https://github.com/fxia22/PixelDTGAN)
++ TextureGAN: Controlling Deep Image Synthesis with Texture Patches, [[paper]](https://arxiv.org/pdf/1706.02823.pdf), [[demo]](https://github.com/varunagrawal/t-gan-demo)
 
 
 ### Image Inpainting (hole filling)
@@ -60,9 +65,15 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 ### Super-resolution
 + Image super-resolution through deep learning, [[github]](https://github.com/david-gpu/srez)
 + Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, [[paper]](https://arxiv.org/abs/1609.04802), [[github]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
++ High-Quality Face Image Super-Resolution Using Conditional Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1707.00737.pdf)
 
 ### Image Blending
 + GP-GAN: Towards Realistic High-Resolution Image Blending, [[paper]](https://arxiv.org/abs/1703.07195), [[github]](https://github.com/wuhuikai/GP-GAN)
+
+### Generating High-resolution image (large-scale image)
++ Generating Large Images from Latent Vectors, [[blog]](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/), [[github]](https://github.com/hardmaru/cppn-gan-vae-tensorflow)
+
+
 
 ### Visual Saliency Prediction (attention prediction)
 + SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[paper]](https://arxiv.org/pdf/1701.01081), [[github]](https://github.com/imatge-upc/saliency-salgan-2017)
@@ -87,9 +98,11 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 
 -----
 
-## GANs tutorials with easy and simple example codes for starters.
+## GAN tutorials with easy and simple example code for starters.
 + [1D Generative Adversarial Network Demo](http://notebooks.aylien.com/research/gan/gan_simple.html)
 + [starter from "How to Train a GAN?" at NIPS2016](https://github.com/soumith/ganhacks)
++ [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
++ [OpenAI - Generative Models](https://blog.openai.com/generative-models/)
 + [[paper]](), [[github]](), [[Youtube]]()
 
 ----
@@ -101,4 +114,7 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 
 
 ## Author
-Minchul Shin, [@nashory](https://github.com/nashory)
+Minchul Shin, [@nashory](https://github.com/nashory)  
+
+__Any recommendations to add to the list are welcome :)__  
+__Feel free to make pull requests!__
