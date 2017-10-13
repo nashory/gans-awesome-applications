@@ -17,7 +17,10 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 
 ### Anime character generation
 + Towards the Automatic Anime Characters Creation with Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1708.05509)
-+ A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing, [[github]](https://github.com/jayleicn/animeGAN)
++ [Project] A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing, [[github]](https://github.com/jayleicn/animeGAN)
++ [Project] A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations, [[github]](https://github.com/tdrussell/IllustrationGAN)
++ [Project] Keras-GAN-Animeface-Character, [[github]](https://github.com/forcecore/Keras-GAN-Animeface-Character)
++ [Project] A DCGAN to generate anime faces using custom mined dataset, [[github]](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
 
 ### Interactive Image generation
 + Generative Visual Manipulation on the Natural Image Manifold, [[paper]](https://arxiv.org/pdf/1609.03552), [[github]](https://github.com/junyanz/iGAN)
@@ -70,9 +73,13 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 ### Image Blending
 + GP-GAN: Towards Realistic High-Resolution Image Blending, [[paper]](https://arxiv.org/abs/1703.07195), [[github]](https://github.com/wuhuikai/GP-GAN)
 
-### Generating High-resolution image (large-scale image)
+### High-resolution image generation (large-scale image)
 + Generating Large Images from Latent Vectors, [[blog]](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/), [[github]](https://github.com/hardmaru/cppn-gan-vae-tensorflow)
 
+### Adversarial Examples (Defense vs Attack) 
++ SafetyNet: Detecting and Rejecting Adversarial Examples Robustly, [[paper]](https://arxiv.org/abs/1704.00103)
++ ADVERSARIAL EXAMPLES FOR GENERATIVE MODELS, [[paper]](https://arxiv.org/pdf/1702.06832.pdf), [[github]]()
++ Adversarial Examples Generation and Defense Based on Generative Adversarial Network, [[paper]](http://cs229.stanford.edu/proj2016/report/LiuXia-AdversarialExamplesGenerationAndDefenseBasedOnGenerativeAdversarialNetwork-report.pdf)
 
 
 ### Visual Saliency Prediction (attention prediction)
