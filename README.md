@@ -11,7 +11,7 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 -----
 
 ## Contents
-__Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword)__
+__Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword__
 + [Applications using GANs](#applications-using-gans)
     + [Font geneation](#font-generation)
     + [Anime character generation](#anime-character-generation)
