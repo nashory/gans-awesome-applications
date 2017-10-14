@@ -10,6 +10,34 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 
 -----
 
+## Contents
+__Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword)__
++ [Applications using GANs](#applications-using-gans)
+    + [Font geneation](#font-generation)
+    + [Anime character generation](#anime-character-generation)
+    + [Interactive Image generation](#interactive-image-generation)
+    + [Text2Image (text to image)](#text2image-text-to-image)
+    + [3D Obejct generation](#3d-obejct-generation)
+    + [Image Editing](#image-editing)
+    + [Face Aging](#face-aging)
+    + [Human Pose Estimation](#human-pose-estimation)
+    + [Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)](#domain-transfer-eg-style-transfer-pix2pix-sketch2image)
+    + [Image Inpainting (hole filling)](#image-inpainting-hole-filling)
+    + [Super-resolution](#super-resolution)
+    + [High-resolution image generation (large-scale image)](#high-resolution-image-generation-large-scale-image)
+    + [Adversarial Examples (Defense vs Attack)](#adversarial-examples-defense-vs-attack)
+    + [Visual Saliency Prediction (attention prediction)](#visual-saliency-prediction-attention-prediction)
++ [Did not use GAN, but still interesting applications](#did-not-use-gan-but-still-interesting-applications)
+    + [Real-time face reconstruction](#real-time-face-reconstruction)
+    + [Super-resolution](#super-resolution-1)
+    + [Photorealistic Image geneation (e.g. pix2pix, sketch2image)](#photorealistic-image-geneation-eg-pix2pix-sketch2image)
+    + [Human Pose Estimation](#human-pose-estimation-1)
++ [GAN tutorials with easy and simple example code for starters](#gan-tutorials-with-easy-and-simple-example-code-for-starters)
++ [Implementations of various types of GANs collection](#implementations-of-various-types-of-gans-collection)
+
+
+-----
+
 ## Applications using GANs
 
 ### Font generation
@@ -105,7 +133,7 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 
 -----
 
-## GAN tutorials with easy and simple example code for starters.
+## GAN tutorials with easy and simple example code for starters
 + [1D Generative Adversarial Network Demo](http://notebooks.aylien.com/research/gan/gan_simple.html)
 + [starter from "How to Train a GAN?" at NIPS2016](https://github.com/soumith/ganhacks)
 + [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
