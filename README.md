@@ -31,8 +31,11 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
     + [Adversarial Examples (Defense vs Attack)](#adversarial-examples-defense-vs-attack)
     + [Visual Saliency Prediction (attention prediction)](#visual-saliency-prediction-attention-prediction)
     + [Object Detection/Recognition](#object-detectionrecognition)
+    + [Robotics](#robotics)
+    + [Video (generation/prediction)](#video-generationprediction)
+    + [Synthetic Data Generation](#synthetic-data-generation)
+    + [Others](#others)
 + [Did not use GAN, but still interesting applications](#did-not-use-gan-but-still-interesting-applications)
-
     + [Real-time face reconstruction](#real-time-face-reconstruction)
     + [Super-resolution](#super-resolution-1)
     + [Photorealistic Image generation (e.g. pix2pix, sketch2image)](#photorealistic-image-generation-eg-pix2pix-sketch2image)
@@ -40,7 +43,7 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
     + [3D Object generation](#3d-object-generation-1)
 + [GAN tutorials with easy and simple example code for starters](#gan-tutorials-with-easy-and-simple-example-code-for-starters)
 + [Implementations of various types of GANs collection](#implementations-of-various-types-of-gans-collection)
-
++ [Trendy AI-application Articles](#trendy-ai-application-articles)
 
 -----
 
