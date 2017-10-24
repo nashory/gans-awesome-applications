@@ -97,6 +97,8 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 + Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks, [[paper]](http://arxiv.org/abs/1604.04382), [[github]](https://github.com/chuanli11/MGANs)
 + Pixel-Level Domain Transfer  [[paper]](https://arxiv.org/pdf/1603.07442), [[github]](https://github.com/fxia22/PixelDTGAN)
 + TextureGAN: Controlling Deep Image Synthesis with Texture Patches, [[paper]](https://arxiv.org/pdf/1706.02823.pdf), [[demo]](https://github.com/varunagrawal/t-gan-demo)
++ Vincent AI Sketch Demo Draws In Throngs at GTC Europe, [[blog](https://blogs.nvidia.com/blog/2017/10/11/vincent-ai-sketch-demo-draws-in-throngs-at-gtc-europe/)], [[youtube]](https://www.youtube.com/watch?v=kIcqXTUMwps)
++ Deep Photo Style Transfer, [[paper]](https://arxiv.org/pdf/1703.07511.pdf), [[github]](https://github.com/luanfujun/deep-photo-styletransfer)
 
 
 ### Image Inpainting (hole filling)
@@ -142,8 +144,8 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 + (Physics) Learning Particle Physics by Example:
 Location-Aware Generative Adversarial Networks for
 Physics Synthesis, [[paper]](https://arxiv.org/pdf/1701.05927.pdf), [[github]](https://github.com/hep-lbdl/adversarial-jets)
-
-
++ (Games) STYLE TRANSFER GENERATIVE ADVERSARIAL NETWORKS:
+LEARNING TO PLAY CHESS DIFFERENTLY, [[paper]](https://openreview.net/pdf?id=HkpbnufYe), [[github]](https://github.com/2014mchidamb/AdversarialChess)
 -----
 
 ## Did not use GAN, but still interesting applications.
