@@ -117,10 +117,11 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 
 ### High-resolution image generation (large-scale image)
 + Generating Large Images from Latent Vectors, [[blog]](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/), [[github]](https://github.com/hardmaru/cppn-gan-vae-tensorflow)
++ PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, [[paper]](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf), [[github]](https://github.com/tkarras/progressive_growing_of_gans)
 
 ### Adversarial Examples (Defense vs Attack) 
 + SafetyNet: Detecting and Rejecting Adversarial Examples Robustly, [[paper]](https://arxiv.org/abs/1704.00103)
-+ ADVERSARIAL EXAMPLES FOR GENERATIVE MODELS, [[paper]](https://arxiv.org/pdf/1702.06832.pdf), [[github]]()
++ ADVERSARIAL EXAMPLES FOR GENERATIVE MODELS, [[paper]](https://arxiv.org/pdf/1702.06832.pdf)
 + Adversarial Examples Generation and Defense Based on Generative Adversarial Network, [[paper]](http://cs229.stanford.edu/proj2016/report/LiuXia-AdversarialExamplesGenerationAndDefenseBasedOnGenerativeAdversarialNetwork-report.pdf)
 
 
