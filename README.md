@@ -147,6 +147,7 @@ Location-Aware Generative Adversarial Networks for
 Physics Synthesis, [[paper]](https://arxiv.org/pdf/1701.05927.pdf), [[github]](https://github.com/hep-lbdl/adversarial-jets)
 + (Games) STYLE TRANSFER GENERATIVE ADVERSARIAL NETWORKS:
 LEARNING TO PLAY CHESS DIFFERENTLY, [[paper]](https://openreview.net/pdf?id=HkpbnufYe), [[github]](https://github.com/2014mchidamb/AdversarialChess)
++ (General) Spectral Normalization for Generative Adversarial Networks, [[paper]](https://openreview.net/pdf?id=B1QRgziT-), [[github]](https://github.com/minhnhat93/tf-SNDCGAN)
 -----
 
 ## Did not use GAN, but still interesting applications.
