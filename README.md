@@ -184,6 +184,7 @@ Fully Convolutional Networks for Rough Sketch Cleanup, [[paper]](http://delivery
 + [nashory/gans-collections.torch](https://github.com/nashory/gans-collection.torch), torch7
 + [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections), pytorch
 + [wiseodd/generative-models](https://github.com/wiseodd/generative-models), both pytorch and tensorflow
++ [aboev/arae-tf](https://github.com/aboev/arae-tf), tensorflow
 
 
 ___
