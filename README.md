@@ -16,11 +16,11 @@ __Note: General GAN papers targeting simple image generation such as DCGAN, BEGA
 ## Contents
 __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword__
 + [Applications using GANs](#applications-using-gans)
-    + [Font geneation](#font-generation)
+    + [Font generation](#font-generation)
     + [Anime character generation](#anime-character-generation)
     + [Interactive Image generation](#interactive-image-generation)
     + [Text2Image (text to image)](#text2image-text-to-image)
-    + [3D Obejct generation](#3d-obejct-generation)
+    + [3D Object generation](#3d-obejct-generation)
     + [Image Editing](#image-editing)
     + [Face Aging](#face-aging)
     + [Human Pose Estimation](#human-pose-estimation)
