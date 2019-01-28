@@ -111,6 +111,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 + Image super-resolution through deep learning, [[github]](https://github.com/david-gpu/srez)
 + Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, [[paper]](https://arxiv.org/abs/1609.04802), [[github]](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)
 + High-Quality Face Image Super-Resolution Using Conditional Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1707.00737.pdf)
++ Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network, [[paper]](https://arxiv.org/pdf/1811.00344.pdf), [[github]](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw)
 
 ### Image Blending
 + GP-GAN: Towards Realistic High-Resolution Image Blending, [[paper]](https://arxiv.org/abs/1703.07195), [[github]](https://github.com/wuhuikai/GP-GAN)
