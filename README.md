@@ -86,6 +86,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 + FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS, [[paper]](https://arxiv.org/pdf/1702.01983.pdf)
 
 ### Human Pose Estimation
++ Joint Discriminative and Generative Learning for Person Re-identification, [[paper]](https://arxiv.org/abs/1904.07223), [[github]](https://github.com/NVlabs/DG-Net), [[video]](https://www.youtube.com/watch?v=ubCrEAIpQs4)
 + Pose Guided Person Image Generation, [[paper]](https://arxiv.org/abs/1705.09368)
 
 ### Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)
