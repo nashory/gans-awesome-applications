@@ -18,6 +18,7 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
 + [Applications using GANs](#applications-using-gans)
     + [Font generation](#font-generation)
     + [Anime character generation](#anime-character-generation)
+    + [Retro pixel game character generation](#pixel-character-generation)
     + [Interactive Image generation](#interactive-image-generation)
     + [Text2Image (text to image)](#text2image-text-to-image)
     + [3D Object generation](#3d-object-generation)
@@ -58,6 +59,9 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
 + [Project] A simple, clean TensorFlow implementation of Generative Adversarial Networks with a focus on modeling illustrations, [[github]](https://github.com/tdrussell/IllustrationGAN)
 + [Project] Keras-GAN-Animeface-Character, [[github]](https://github.com/forcecore/Keras-GAN-Animeface-Character)
 + [Project] A DCGAN to generate anime faces using custom mined dataset, [[github]](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
+
+### Retro pixel game character generation
++ [Project][Dataset] A simple PyTorch Implementation of DCGAN for retro, pixel game characters for quick and fun experiments. Dataset of ~4k 64x64x3 random character included. [github](https://github.com/AgaMiko/pixel_character_generator)
 
 ### Interactive Image generation
 + Generative Visual Manipulation on the Natural Image Manifold, [[paper]](https://arxiv.org/pdf/1609.03552), [[github]](https://github.com/junyanz/iGAN)
