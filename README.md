@@ -61,7 +61,7 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
 + [Project] A DCGAN to generate anime faces using custom mined dataset, [[github]](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
 
 ### Retro pixel game character generation
-+ [Project][Dataset] A simple PyTorch Implementation of DCGAN for retro, pixel game characters for quick and fun experiments. Dataset of ~4k 64x64x3 random character included. [github](https://github.com/AgaMiko/pixel_character_generator)
++ [Project][Dataset] A simple PyTorch Implementation of DCGAN for retro, pixel game characters for quick and fun experiments. Dataset of ~4k 64x64x3 random character included. [[github]](https://github.com/AgaMiko/pixel_character_generator) [[dataset]](https://github.com/AgaMiko/pixel_character_generator/blob/master/data.zip)
 
 ### Interactive Image generation
 + Generative Visual Manipulation on the Natural Image Manifold, [[paper]](https://arxiv.org/pdf/1609.03552), [[github]](https://github.com/junyanz/iGAN)
