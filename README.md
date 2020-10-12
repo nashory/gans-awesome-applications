@@ -51,6 +51,8 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
 
 ### Font generation
 + Learning Chinese Character style with conditional GAN, [[blog]](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html), [[github]](https://github.com/kaonashi-tyc/zi2zi)
++ Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning, [[paper]](http://arxiv.org/abs/1910.04987), [[github]](https://github.com/hologerry/AGIS-Net)
++ Attribute2Font: Creating Fonts You Want From Attributes, [[paper]](https://arxiv.org/abs/2005.07865), [[github]](https://github.com/hologerry/Attr2Font)
 
 ### Anime character generation
 + Towards the Automatic Anime Characters Creation with Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1708.05509)
