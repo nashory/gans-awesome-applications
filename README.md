@@ -24,6 +24,7 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
     + [Image Editing](#image-editing)
     + [Face Aging](#face-aging)
     + [Human Pose Estimation](#human-pose-estimation)
+    + [Delineation](#delineation)
     + [Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)](#domain-transfer-eg-style-transfer-pix2pix-sketch2image)
     + [Image Inpainting (hole filling)](#image-inpainting-hole-filling)
     + [Super-resolution](#super-resolution)
@@ -90,6 +91,11 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 ### Human Pose Estimation
 + Joint Discriminative and Generative Learning for Person Re-identification, [[paper]](https://arxiv.org/abs/1904.07223), [[github]](https://github.com/NVlabs/DG-Net), [[video]](https://www.youtube.com/watch?v=ubCrEAIpQs4)
 + Pose Guided Person Image Generation, [[paper]](https://arxiv.org/abs/1705.09368)
+
+### Delineation
++ Matching Adversarial Networks, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Mattyus_Matching_Adversarial_Networks_CVPR_2018_paper.html)
++ TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation, [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720222.pdf)
++ TopoGAN: A Topology-Aware Generative Adversarial Network, [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)
 
 ### Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)
 + Image-to-Image Translation with Conditional Adversarial Networks, [[paper]](https://arxiv.org/pdf/1611.07004), [[github]](https://github.com/phillipi/pix2pix), [[youtube]](https://www.youtube.com/watch?v=VVqxbmUJorQ)
