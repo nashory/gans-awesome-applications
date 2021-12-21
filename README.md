@@ -135,6 +135,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 ### Object Detection/Recognition
 + Perceptual Generative Adversarial Networks for Small Object Detection, [[paper]](https://arxiv.org/pdf/1706.05274)
 + Adversarial Generation of Training Examples for Vehicle License Plate Recognition, [[paper]](https://arxiv.org/pdf/1707.03124.pdf)
++ Quaternion Generative Adversarial Networks for Inscription Detection in Byzantine Monuments, [[paper]](https://www.cs.uoi.gr/~sfikas/icprw-quaternion-gan.pdf), [[github]](https://github.com/sfikas/quaternion-gan)
 
 ### Robotics
 + Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1612.05424.pdf), [[github]](https://github.com/rhythm92/Unsupervised-Pixel-Level-Domain-Adaptation-with-GAN)
@@ -144,6 +145,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 
 ### Synthetic Data Generation
 + Learning from Simulated and Unsupervised Images through Adversarial Training, [[paper]](https://arxiv.org/pdf/1612.07828.pdf), [[github]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
++ Ising-GAN: Annotated Data Augmentation with a spatially constrained Generative Adversarial Network, [[paper]](https://www.cs.uoi.gr/~sfikas/gan-annotated.pdf)
 
 ### Others
 + (Physics) Learning Particle Physics by Example:
