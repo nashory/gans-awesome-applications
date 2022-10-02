@@ -153,7 +153,6 @@ Physics Synthesis, [[paper]](https://arxiv.org/pdf/1701.05927.pdf), [[github]](h
 LEARNING TO PLAY CHESS DIFFERENTLY, [[paper]](https://openreview.net/pdf?id=HkpbnufYe), [[github]](https://github.com/2014mchidamb/AdversarialChess)
 + (General) Spectral Normalization for Generative Adversarial Networks, [[paper]](https://openreview.net/pdf?id=B1QRgziT-), [[github]](https://github.com/minhnhat93/tf-SNDCGAN)
 + (Graphics) SeamlessGAN: Self-Supervised Synthesis of Tileable Texture Maps, [[paper]](https://arxiv.org/abs/2201.05120), [[youtube]](https://youtu.be/5vWW84jsRyk), [[site link]](https://carlosrodriguezpardo.es/projects/SeamlessGAN/)
-
 -----
 
 ## Did not use GAN, but still interesting applications.
