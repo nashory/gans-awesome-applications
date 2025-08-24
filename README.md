@@ -144,6 +144,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 
 ### Synthetic Data Generation
 + Learning from Simulated and Unsupervised Images through Adversarial Training, [[paper]](https://arxiv.org/pdf/1612.07828.pdf), [[github]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
++ Enhancing Human Action Recognition with GAN-based Data Augmentation, [[paper]](doi.org/10.1117/12.3021572), [[github]](https://github.com/PrasannaPulakurthi/EHAR-GAN), [[dataset]](https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2)
 
 ### Others
 + (Physics) Learning Particle Physics by Example:
