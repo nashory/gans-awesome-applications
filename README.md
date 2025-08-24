@@ -143,6 +143,7 @@ Shapes via 3D Generative-Adversarial Modeling, [[paper]](http://papers.nips.cc/p
 + DEEP MULTI-SCALE VIDEO PREDICTION BEYOND MEAN SQUARE ERROR, [[paper]](https://arxiv.org/pdf/1511.05440.pdf), [[github]](https://github.com/dyelax/Adversarial_Video_Generation)
 
 ### Synthetic Data Generation
++ Enhancing Human Action Recognition with GAN-based Data Augmentation, [[paper]](https://doi.org/10.1117/12.3021572), [[github]](https://github.com/PrasannaPulakurthi/EHAR-GAN), [[dataset]](https://huggingface.co/datasets/prasannareddyp/Syn-RoCoG-v2)
 + Learning from Simulated and Unsupervised Images through Adversarial Training, [[paper]](https://arxiv.org/pdf/1612.07828.pdf), [[github]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
 
 ### Others
