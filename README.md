@@ -34,6 +34,8 @@ __Use this contents list or simply press <kbd>command</kbd> + <kbd>F</kbd> to se
     + [Robotics](#robotics)
     + [Video (generation/prediction)](#video-generationprediction)
     + [Synthetic Data Generation](#synthetic-data-generation)
+
++ [Tabular GANs for uneven distribution](https://arxiv.org/abs/2010.00638), Insaf Ashrapov. [[Code](https://github.com/Diyago/Tabular-data-generation)] [[PyPI](https://pypi.org/project/tabgan/)]
     + [Others](#others)
 + [Did not use GAN, but still interesting applications](#did-not-use-gan-but-still-interesting-applications)
     + [Real-time face reconstruction](#real-time-face-reconstruction)
