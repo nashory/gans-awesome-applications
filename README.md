@@ -5,6 +5,7 @@ Curated list of awesome GAN applications and demonstrations.
 
 __Note: General GAN papers targeting simple image generation such as DCGAN, BEGAN etc. are not included in the list. I mainly care about applications.__
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=nashory_gans-awesome-applications) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## The landmark papers that I respect.
 + Generative Adversarial Networks, [[paper]](https://arxiv.org/abs/1406.2661), [[github]](https://github.com/goodfeli/adversarial)
 + Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1511.06434), [[github]](https://github.com/soumith/dcgan.torch)
